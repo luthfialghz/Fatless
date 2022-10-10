@@ -1,11 +1,58 @@
-# Fatless 
+## Fatless API
 
- ## Introduction
+This API is intended for the purposes of our project at Hackaton Finance and Health
 
- Fatless is an Android-based mobile application that was created to assist users in detecting the percentage of fat levels in the body, this is based on the COVID-19 pandemic a few years ago, the lack of public activity in exercising led to an increase in obesity rates in several countries, especially Indonesia.
+## Table of Contents
 
- ## Branch
+* [Routes](#routes)
+* [API Documentation](#api-documentation)
+* [Contributor](#contributor)
 
- - [Machine Learning](https://github.com/luthfialghz/Fatless/tree/manchine_learning)
- - [Android](https://github.com/luthfialghz/Capstone-Project---DewPet-Bangkit-2022/tree/android)
- - [Cloud Webservice](https://github.com/luthfialghz/Capstone-Project---DewPet-Bangkit-2022/tree/web_service)
+## Routes
+
+*Still work on progress*
+| HTTP METHOD | POST            | GET       | PUT         | DELETE |
+| ----------- | :-------: | :------:  | :------:  | :------: |
+| /predict    | Prediction Bodyfat Percentage | - | - | - |
+
+
+## API Documentation 
+*Still work on progress*
+### List of Endpoints
+* [Login](#login)
+    * [Registration](#registration)
+    * [Login](#login)
+    * [Info User](#info-user)
+
+
+## Prediction
+
+### Predict
+* Method : POST
+* URL : `/predict`    
+* Request body :
+```json 
+[
+    {
+        "Density": 1.0708,
+        "Age": 25,
+        "Weight": 154.25,
+        "Height": 67.75,
+        "Chest": 93.1,
+        "Abdomen": 85.2,
+        "Hip": 94.5,
+        "Thigh": 59,
+        "Biceps": 32
+    }
+]
+```
+* Response body:
+```json
+{
+    "Prediction": 12.246999999999982
+}
+``` 
+
+## Contributor
+
+1. Luthfi Yafi Alfiansyah
