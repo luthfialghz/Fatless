@@ -8,4 +8,4 @@
 
  - [Machine Learning](https://github.com/luthfialghz/Fatless/tree/manchine_learning)
  - [Android](https://github.com/luthfialghz/Capstone-Project---DewPet-Bangkit-2022/tree/android)
- - [Cloud Webservice](https://github.com/luthfialghz/Capstone-Project---DewPet-Bangkit-2022/tree/web_service)
+ - [Cloud Webservice](https://github.com/luthfialghz/Fatless/tree/web_services)
