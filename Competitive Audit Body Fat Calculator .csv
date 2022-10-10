@@ -1,0 +1,63 @@
+"Competitive Audit
+",Tujuan Competitive Audit ,,,,,,,,,,,,,,
+,Informasi Umum,,,,,,,,,,,,,,
+,,,,,,,,First Impression (Kesan Pertama),Interaksi,,,,Desain Visual,Konten,
+,"Tipe Kompetitor
+(langsung / tidak langsung)",Produk yang ditawarkan,"Alamat PlayStore
+(URL)","Rating 
+(0-5)",Total Download,Target pengguna,Unique value proposition ,App or mobile website,Fitur,Aksesibilitas,User flow ,Navigasi,Brand identity (identitas merek),Gaya bahasa,Deskriptifitas
+Body Fat Calculator - VoYo,Langsung,Perhitungan body fat,https://play.google.com/store/apps/details?id=com.voiche.bodyfatcalculator,4.5,"1,5k+",Menengah,"Simple app, tampilan yang sederhana dan to the point","KURANG BAGUS
++ UI Simple dan ringan
+- Kurang adanya penjelasan terhadap user dalam mengisi form","KURANG
++ Pengisian form yang mudah
++ Terdapat fitur progress chart
+- Hanya terdapat fitur perhitungan body fat ","KURANG
+- Hanya mendukung 1 bahasa ","BAGUS
++ Body fat calculator langsung ada di halaman home","BAGUS
++ Fitur body fat calculator mudah dilihat","BAGUS
++ Identitas kuat ditunjukkan dari pemilihan warna app dan logo",Bahasa  yang digunakan mudah dimengerti,"KURANG BAGUS
+- Tidak adanya penjelasan tentang indikator yang digunakan"
+Body Fat Calculator - AkshatApp,Langsung,Perhitungan body fat,https://play.google.com/store/apps/details?id=com.akshatapp.bodyfatcalculator,-,-,Menengah,"Simple app, memiliki warna yang cerah, membedakan menu perhitungan antara perempuan dan laki laki","Bagus
++ UI clean dan minimalis
++ Terdapatnya pemisahan fitur laki laki dan wanita
++ Adanya penjelasan persen indikator fat
+- Tidak adanya penjelasan per indikator
+- Tidak adanya langkah lebih lanjut jika body fat berlebih","BAGUS
++ Perhitungan yang mudah
++ Informasi terkait persen body fat
+- Indikator body fat yang sedikit","KURANG
+- Hanya mendukung 1 bahasa ","BAGUS
++ Body fat calculator langsung ada di halaman home ","BAGUS
++ Fitur body fat calculator mudah dilihat
++ Perpindahan menu mudah dilakukan ","BAGUS
++ Identitas kuat ditunjukkan dari pemilihan warna app dan logo",Bahasa  yang digunakan mudah dimengerti,"KURANG
+- Tidak adanya penjelasan tentang indikator yang digunakan"
+Health Calculator,Tidak langsung,"Perhitungan BMR, BMI, Calories burn, dan sebagainya",https://play.google.com/store/apps/details?id=com.cit.bmi.bmr.bodyfatpercentage.calculator,4.6,354,Menengah,"Tampilan yang menarik, banyak fitur perhitungan yang dapat digunakan","BAGUS
++ UI simple dan clean
++ Banyak pilihan fitur health calculator
+- UI yang kurang ketika masuk halaman detail
+- Adanya iklan sebelum hasil keluar","KURANG
++ Banyak fitur health calculator yang tersedia
+- Tidak adanya fitur body fat calculator","KURANG
+- Hanya mendukung 1 bahasa ","BAGUS
+- Menu pilihan health calculator langsung terlihat pada halaman home ","Bagus
++ Fitur health calculator mudah dilihat dan digunakan
++ Menu pilihan yang lain juga mudah dijangkau ","KURANG
++ Identitas kuat ditunjukkan dari pemilihan warna app dan logo
+- Pemilihan warna yang buruk ketika masuk detail health calculator",Bahasa yang digunakan jelas,"KURANG
+- Tidak adanya penjelasan terkait healht calculator yang ada"
+Fita,Tidak langsung,"Penyedia layanan kesehatan yang didalamnya terdapat program olahraga, artikel kesehatan, dan produk produk kesehatan",https://play.google.com/store/apps/details?id=com.muna.lively,4.7,6k+,Menengah ke atas,"Menyatukan berbagai fitur kesehatan dalam satu app, seperti program olahraga, artikel kesehatan, dan menjual produk kesehatan","SANGAT BAGUS
++ UI yang menarik dan nyaman di mata
++ Pilihan program yang menarik dan jelas
++ Adanya artikel yang memuat terkait kesehatan
++ Adanya fitur belanja produk kesehatan
+- Tidak adanya fitur perhitungan bmi / bmr ","BAGUS
++ Menggabungkan hampir semua fitur kesehatan, seperti program, artikel, dan produk kesehatan
+- Tidak adanya fitur untuk menghitung bmi, bmr, dan body fat","KURANG
+- Hanya mendukung 1 bahasa ","BAGUS
++ Seluruh menu mudah dilihat dan dimengerti
++ Ketika loading terdapat info atau motivasi yang diberikan ","BAGUS
++ Seluruh fitur mudah diakses dan eye catching ","BAGUS
++ Memberikan desain dan warna yang simple
++ Membuat mata nyaman ketika melihat aplikasi Fita",Bahasa yang digunakan mudah dimengerti dan memberikan motivasi,"BAGUS
++ Terdapat penjelasan pada setiap fiturnya dan mudah ditangkap"
