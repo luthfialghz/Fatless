@@ -18,10 +18,6 @@ This API is intended for the purposes of our project at Hackaton Finance and Hea
 
 ## API Documentation 
 *Still work on progress*
-### List of Endpoints
-* [Predict](### Predict)
-
-
 
 ## Prediction
 
