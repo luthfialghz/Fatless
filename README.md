@@ -19,10 +19,8 @@ This API is intended for the purposes of our project at Hackaton Finance and Hea
 ## API Documentation 
 *Still work on progress*
 ### List of Endpoints
-* [Login](#login)
-    * [Registration](#registration)
-    * [Login](#login)
-    * [Info User](#info-user)
+* [Predict](### Predict)
+
 
 
 ## Prediction
