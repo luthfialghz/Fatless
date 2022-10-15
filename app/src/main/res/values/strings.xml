@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Fatless</string>
+    <string name="hasil_test_predict">Hasil Test Predict</string>
+
+    <!--UI-->
+    <!--Splash Screen Page-->
+
+    <!--OnBoarding Page-->
+    <string name="introduction_app">Fatless adalah aplikasi yang dirancang untuk membantu
+pengguna dalam memprediksi persentase kadar lemak dalam tubuh.</string>
+    <string name="prediction_start">Prediksikan</string>
+
+    <!--Gender Page-->
+    <string name="gender_question">Apa jenis kelamin-mu?</string>
+
+    <!--Age Page-->
+    <string name="age_question">Berapa umur kamu?</string>
+    <string name="age_description">Proses penuaan di dalam tubuh dapat membuat lemak perut (viseral) semakin meningkat.</string>
+
+    <!--Height Page-->
+    <string name="height_question">Berapa tinggi kamu?</string>
+    <string name="height_description">Lemak jenuh yang menumpuk terlalu banyak dalam tubuh dapat menyebabkan pertumbuhan terhambat</string>
+
+    <!--Weight Page-->
+    <string name="weight_question">Berapa berat badan kamu?</string>
+    <string name="weight_description">Kadar lemak dalam tubuh merupakan salah satu indikator kenaikan berat badan</string>
+
+    <!--Chest Page-->
+    <string name="chest_question">Ukuran lingkar dada kamu?</string>
+    <string name="chest_description">Ukuran lingkar dada kamu merupakan salah satu indikator berapa banyak kadar lemah di tubuhmu lho</string>
+
+    <!--Abdomen Page-->
+    <string name="abdomen_question">Ukuran lingkar perut kamu?</string>
+    <string name="abdomen_description">Selain dada, perut merupakan salah satu indikator dalam menentukan banyaknya kadar lemak dalam tubuhmu juga</string>
+
+    <!--Hip Page-->
+    <string name="hip_question">Ukuran lingkar pinggul anda</string>
+    <string name="hip_description">Umur anda dapat mempengaruhi kadar lemak dalam tubuh anda</string>
+
+    <!--Thigh Page-->
+    <string name="thigh_question">Ukuran lingkar paha anda</string>
+    <string name="thigh_description">Umur anda dapat mempengaruhi kadar lemak dalam tubuh anda</string>
+
+    <!--Biceps Page-->
+    <string name="biceps_question">Ukuran lingkar bisep anda</string>
+    <string name="biceps_description">Umur anda dapat mempengaruhi kadar lemak dalam tubuh anda</string>
+    
+    <!--Main Page-->
+    <string name="prediction_title">Hasil Prediksi</string>
+    <string name="user_age">0</string>
+    <string name="done_predict">Selesai</string>
+    <string name="predict_desc">Berikut merupakah prediksi persentese kadar lemak di tubuhmu!</string>
+    <string name="result_predict">0.00</string>
+
+    <string name="clasification">Klasifikasi</string>
+    <string name="info_klasifikasi">Berdasarkan hasil perhitungan dan persentase dari kadar lemak yang tubuh kamu miliki, kamu termasuk dalam kategori : </string>
+</resources>
