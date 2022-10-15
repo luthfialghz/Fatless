@@ -6,6 +6,7 @@ import android.content.SharedPreferences
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
+import androidx.appcompat.app.AppCompatDelegate
 import com.izo.fatless.MainActivity
 import com.izo.fatless.data.preferences.DataPref
 import com.izo.fatless.databinding.ActivityGenderBinding
@@ -25,6 +26,7 @@ class GenderActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         binding = ActivityGenderBinding.inflate(layoutInflater)
         setContentView(binding.root)
+        AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_NO)
         supportActionBar?.hide()
 
         sharedPref = getSharedPreferences(PREF_NAME, Context.MODE_PRIVATE)

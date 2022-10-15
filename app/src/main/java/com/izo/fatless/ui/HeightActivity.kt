@@ -7,6 +7,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
 import android.widget.Toast
+import androidx.appcompat.app.AppCompatDelegate
 import com.izo.fatless.MainActivity
 import com.izo.fatless.data.preferences.DataPref
 import com.izo.fatless.databinding.ActivityAgeBinding
@@ -27,6 +28,7 @@ class HeightActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         binding = ActivityHeightBinding.inflate(layoutInflater)
         setContentView(binding.root)
+        AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_NO)
         supportActionBar?.hide()
 
         sharedPref = getSharedPreferences(PREF_NAME, Context.MODE_PRIVATE)

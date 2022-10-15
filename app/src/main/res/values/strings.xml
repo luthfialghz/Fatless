@@ -27,7 +27,7 @@ pengguna dalam memprediksi persentase kadar lemak dalam tubuh.</string>
 
     <!--Chest Page-->
     <string name="chest_question">Ukuran lingkar dada kamu?</string>
-    <string name="chest_description">Ukuran lingkar dada kamu merupakan salah satu indikator berapa banyak kadar lemah di tubuhmu lho</string>
+    <string name="chest_description">Ukuran lingkar dada kamu merupakan salah satu indikator berapa banyak kadar lemak di tubuhmu lho</string>
 
     <!--Abdomen Page-->
     <string name="abdomen_question">Ukuran lingkar perut kamu?</string>

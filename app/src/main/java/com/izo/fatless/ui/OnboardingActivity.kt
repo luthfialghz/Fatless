@@ -8,6 +8,7 @@ import android.os.Looper
 import android.view.animation.AnimationUtils
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
+import androidx.appcompat.app.AppCompatDelegate
 import com.izo.fatless.R
 import com.izo.fatless.databinding.ActivityOnboardingBinding
 
@@ -20,6 +21,7 @@ class OnboardingActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         binding = ActivityOnboardingBinding.inflate(layoutInflater)
         setContentView(binding.root)
+        AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_NO)
         supportActionBar?.hide()
 
         val onboardingIllustration = binding.ivOnboardingIllustration
