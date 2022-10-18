@@ -43,7 +43,7 @@ pengguna dalam memprediksi persentase kadar lemak dalam tubuh.</string>
 
     <!--Biceps Page-->
     <string name="biceps_question">Ukuran lingkar bisep kamu</string>
-    <string name="biceps_description">Lilitkan pita ukur secara merata pada biceps, jangan kencangkan lilitan atau menekuk pita ukur</string>
+    <string name="biceps_description">Lilitkan pita ukur secara merata pada bisep, jangan kencangkan lilitan atau menekuk pita ukur</string>
     
     <!--Main Page-->
     <string name="prediction_title">Hasil Prediksi</string>
